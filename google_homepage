@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title> Google </title>
+            <meta charset="UTF-8"/>
+        </head>
+        <body>
+            <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt= Googleimage>
+            
+            <form action="/https://www.google.com/">
+                <input type="text" required placeholder="Search">
+            </form>
+            <button type="submit">Google Search</button>
+            <button type="submit">I'm feeling lucky</button>
+            
+            <h1>
+                <p>Kitty ipsum dolor sit amet, 
+                    shed everywhere shed everywhere stretching 
+                    attack your ankles chase the red dot, 
+                    hairball run catnip eat the grass sniff.</p>
+            </h1>
+            <script>
+               
+                </script>
+        </body>
+    </html>
